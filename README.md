@@ -1,4 +1,4 @@
-pandora_auth_robotics_team-gui
+pandora_robotics_team-gui
 ==============================
 
 PANDORA Robotics Team - GUI (Aristotle U. of Thessaloniki)
