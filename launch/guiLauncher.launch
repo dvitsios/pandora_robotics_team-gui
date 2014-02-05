@@ -1,0 +1,5 @@
+<!--GUI Modules -->
+<launch>
+	<remap from = "/gui/arm/armControl" to="/arm/armControl" />
+	<node name="gui" type="masterGui" pkg="gui" respawn="false" ns="gui" />
+</launch>

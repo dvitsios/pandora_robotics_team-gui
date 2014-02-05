@@ -1,0 +1,33 @@
+<package>
+  <description brief="gui">
+
+     The PANDORA GUI package
+
+  </description>
+  <author>Vitsios Dimitrios</author>
+  <license>MIT</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gui</url>
+  <depend package="roscpp"/>
+  <depend package="vision_communications"/>
+  <depend package="slam_communications"/>
+  <depend package="mainMotorControl_communications"/>
+  <depend package="navigation_communications"/>
+  <depend package="controllersAndSensors_communications"/>
+  <depend package="RoboticArm_communications"/>
+  <depend package="dataFusion_communications"/>
+  <depend package="tf"/>
+  <depend package="actionlib"/>
+  <depend package="roslib"/>
+  <depend package="gui_communications"/>
+  <depend package="state_manager"/>
+  <depend package="state_manager_communications"/>
+  <depend package="image_transport"/>
+  <depend package="compressed_image_transport"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
